@@ -3,7 +3,7 @@ name: context examples
 on: ['push']
 
 jobs:
-  my-contect:
+  my-context:
     runs-on: ubuntu-latest
     steps:
       - name: "step1"
